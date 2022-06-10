@@ -22,6 +22,7 @@ In order to visit music data, Netease Cloud Music API is used in this project. B
 ![alt text](https://github.com/Fanny-Yuan/NeteaseCloudMusic_app_Vue/blob/master/imgs/music%20play.JPG)
 1. Use Vue3 Marquee to realize head dynamic features.
 2. Realize animation effect of the disk and needle when playing and stopping the song.
+
 ![alt text](https://github.com/Fanny-Yuan/NeteaseCloudMusic_app_Vue/blob/master/imgs/lyrics.JPG)
 3. Show lyrics when clicking the disk.
 4. Use watch and timer to highlight current lyric.
